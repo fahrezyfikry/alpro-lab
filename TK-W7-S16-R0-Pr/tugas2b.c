@@ -1,3 +1,10 @@
+// Group 2:
+// 2802658250 - Hasbi Rajab Assadiqi
+// 2802669746 - Yosua Maranatha Siahaan
+// 2802663931 - Septia Dini Rahayu
+// 2802658263 - Fikry Fahrezy Ramadhan
+// 2802680225 - Ranidya Putri Hantari
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
