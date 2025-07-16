@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// use `fgets` instead of `scanf` to handle input with newline character
+// use `fgets` instead of `scanf` to handle input with whitespace character
 // https://stackoverflow.com/questions/1247989/how-do-you-allow-spaces-to-be-entered-using-scanf
 void readstr(char *str, const int size) {
     fgets(str, size, stdin);
