@@ -87,7 +87,7 @@ int main() {
     readstr(employee.nip, sizeof(employee.nip));
 
     printf("Nama = ");
-    readstr(employee.name, sizeof(employee.nip));
+    readstr(employee.name, sizeof(employee.name));
 
     printf("Alamat = ");
     readstr(employee.address, sizeof(employee.address));
