@@ -73,7 +73,7 @@ struct employee {
 };
 
 struct overtime {
-    char nip[10];
+    char nip[50];
     bracket bracket_type;
     int hours;
 };
