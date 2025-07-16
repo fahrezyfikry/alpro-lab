@@ -64,10 +64,10 @@ double get_overtime_hour_payment_by_bracket(bracket bracket_type) {
 }
 
 struct employee {
-    char nip[10];
+    char nip[50];
     char name[50];
     char address[100];
-    char phone[15];
+    char phone[50];
     char title[50];
     bracket bracket_type;
 };
