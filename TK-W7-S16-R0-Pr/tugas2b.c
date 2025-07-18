@@ -115,11 +115,6 @@ int main() {
     printf("Nip = ");
     readstr(overtime.nip, sizeof(overtime.nip));
 
-    if (strcmp(overtime.nip, employee.nip) != 0) {
-        printf("\n<Nip tidak sesuai>\n\n");
-        return 1;
-    }
-
     printf("Golongan = ");
     readstr(overtime.bracket_type, sizeof(overtime.bracket_type));
 
