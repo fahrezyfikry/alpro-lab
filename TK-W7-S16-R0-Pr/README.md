@@ -33,7 +33,3 @@ Golongan Gaji Tidak Valid
 Golongan Lembur Tidak Valid
 
 <img width="265" height="328" alt="image" src="https://github.com/user-attachments/assets/770508ad-b915-4b6f-9a4f-53574a6032d6" />
-
-Nip tidak sesuai
-
-<img width="249" height="294" alt="image" src="https://github.com/user-attachments/assets/e027b291-ac61-4a8f-9178-c4a9b1230764" />
